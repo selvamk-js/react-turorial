@@ -1,6 +1,6 @@
 import { SET_EMPLOYEE_DATA } from './constants';
 
-export const setEmployee = data => ({
+export const setEmployeeData = data => ({
   type: SET_EMPLOYEE_DATA,
   data,
 });
